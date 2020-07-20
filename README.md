@@ -1,2 +1,3 @@
-# unity-maze-generator
-A procedural maze generator using a simple backtracking algorithm
+# Procedural maze generator in Unity (C#)
+
+Based on the tutorial by Jasper Flick [@Catlike Coding](https://catlikecoding.com/unity/tutorials/maze/)
